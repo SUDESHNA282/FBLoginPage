@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Facebook</string>
+    <string name="when_is_your_birthday">When is your Birthday?</string>
+    <string name="what_s_your_name">What\'s your name?</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="what_s_your_password">What\'s your Password?</string>
+    <string name="what_s_your_email_address">What\'s your Email Address?</string>
+    <string name="email_address">Email Address</string>
+</resources>
